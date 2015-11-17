@@ -1,0 +1,42 @@
+body{
+background-color: white; 
+color: black;
+padding-bottom: 200px;
+}
+
+body.general{
+text-align: center;
+background-color: white; 
+color: black;
+padding-bottom: 200px;
+}
+
+
+	
+a:link{
+color: black; 
+text-decoration: none;
+}
+	
+a:hover{
+color: black;
+text-decoration: underline;
+}
+
+a:visited{
+color: black;
+}
+
+nav{
+margin: 25px 10%;
+}
+
+nav a{
+display: inline-block;
+margin: 0px 30px;
+}
+	
+div div{
+display: inline-block;
+}
+

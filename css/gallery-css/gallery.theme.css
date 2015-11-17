@@ -21,7 +21,7 @@ background: #4d87e2;
 .gallery .controls {
 position: absolute;
 bottom: 0;
-width: 100%;
+width: 60%;
 text-align: center;
 }
 .gallery .control-button {
